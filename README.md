@@ -1,4 +1,4 @@
-# Manutencao-Preditiva-AI4I
+# Entendendo as falhas de máquinas através da manutenção preditiva
 
 ## Visão Geral
 
