@@ -8,7 +8,7 @@ Você pode conferir o dataset e o projeto na íntegra clicando abaixo:
 
 Link dataset: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
-Link projeto: https://github.com/gustavoptavares/Manutencao-Preditiva-AI4I/blob/main/Manuten%C3%A7%C3%A3o_Preditiva_AI4I.ipynb
+Link do código do projeto: https://github.com/gustavoptavares/Manutencao-Preditiva-AI4I/blob/main/Manuten%C3%A7%C3%A3o_Preditiva_AI4I.ipynb
 
 ## Problema e Solução
 
@@ -20,7 +20,7 @@ Vamos analisar os dados conjunto de dados de manutenção preditiva AI4I 2020, p
 
 ## O Processo
 
-O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal UCI Machine Learning Repository, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e através do modelo de machine learning de classificação, utilizando o algortimo de regressão logística.
+O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal UCI Machine Learning Repository, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo de machine learning de classificação, utilizando o algortimo de regressão logística para previsão do status da máquina.
 
 ## Resultados
 
