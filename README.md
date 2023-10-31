@@ -20,7 +20,7 @@ Vamos analisar os dados conjunto de dados de manutenção preditiva AI4I 2020, p
 
 ## O Processo
 
-O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal UCI Machine Learning Repository, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo de machine learning de classificação, utilizando o algortimo de regressão logística para previsão do status da máquina.
+O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal UCI Machine Learning Repository, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de classificação, utilizando o algortimo de regressão logística para previsão do status da máquina.
 
 ## Resultados
 
