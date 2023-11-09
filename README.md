@@ -1,4 +1,4 @@
-# Entendendo as falhas de máquinas através da manutenção preditiva
+# Prevenindo as falhas de máquinas antes que aconteçam
 
 ## Visão Geral
 
